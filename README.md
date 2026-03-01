@@ -31,7 +31,7 @@ Unlike traditional systems that monitor each channel separately, RingCutter buil
 ## How to Run
 ```bash
 pip install -r requirements.txt
-cd C:\Users\shash\Desktop\RingCutter\frontend
+cd frontend
 npm run build
 cd ..
 python api/server.py
