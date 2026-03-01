@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+ringcutter_env/
+.env
+models/*.pth
+.DS_Store
+*.mp4
+node_modules/
+dist/
+build/
+*.log
+lib
+.venv/
+venv/
