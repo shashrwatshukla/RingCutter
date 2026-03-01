@@ -31,6 +31,7 @@ Unlike traditional systems that monitor each channel separately, RingCutter buil
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/data_generator.py
-python src/gnn_model.py
-streamlit run dashboard/app.py
+cd C:\Users\shash\Desktop\RingCutter\frontend
+npm run build
+cd ..
+python api/server.py
